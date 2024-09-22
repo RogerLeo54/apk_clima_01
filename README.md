@@ -40,3 +40,18 @@ geolocator: ^13.0.1
 
 Plataforma
 Esta aplicación está diseñada exclusivamente para dispositivos Android.
+
+
+
+proceso de instalación:
+
+1. dar clic a archivo .APK
+   ![WhatsApp Image 2024-09-22 at 18 39 40](https://github.com/user-attachments/assets/5b1fa80f-71b3-4f5e-bb6a-de2ef9ebb76e)
+
+3. solicita permisos para instalar aplicaciones desconocidas, dar permisos desde la configuracion de android
+4. dar en instalar app
+5. conseder permisos desde Google Play protect
+6. esperar el proceso de instalacion
+7. dar en abrir app
+8. al abrir solicitara permisos de geolocalizacion, dar en conceder
+9. disfruta de la interfaz de la app.
