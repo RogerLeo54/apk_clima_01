@@ -46,11 +46,13 @@ Esta aplicación está diseñada exclusivamente para dispositivos Android.
 proceso de instalación:
 
 1. dar clic a archivo .APK
+   imagen1
 ![WhatsApp Image 2024-09-22 at 18 39 40](https://github.com/user-attachments/assets/5b1fa80f-71b3-4f5e-bb6a-de2ef9ebb76e)
 
 
 
 3. solicita permisos para instalar aplicaciones desconocidas, dar permisos desde la configuracion de android
+   imagen2
 ![WhatsApp Image 2024-09-22 at 18 39 41](https://github.com/user-attachments/assets/400b43a2-8db9-4cae-8f3a-38b6aa8311ae)
 
 
